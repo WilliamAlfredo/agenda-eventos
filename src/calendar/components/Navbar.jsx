@@ -4,7 +4,7 @@ export const Navbar = () => {
             <span className="navbar-brand">
                <i className="fa-solid fa-calendar-days"></i>
                &nbsp;
-                william
+                William Agend´s
             </span>
             <button className="btn btn-outline-danger">
                 <i className="fa-solid fa-right-from-bracket"></i>
